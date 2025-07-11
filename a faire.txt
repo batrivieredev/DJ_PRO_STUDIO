@@ -1,0 +1,2 @@
+installer flassger, autoriser les autres utilisteurs a acceder aux playlists musicales
+refaire le Readme à jour avec tout le site
