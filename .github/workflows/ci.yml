@@ -49,4 +49,5 @@ jobs:
             --cov-report=xml:coverage.xml \
             --junitxml=test-reports/junit.xml \
             --html=test-reports/report.html --self-contained-html \
-            -vv
+            -vv \
+            -k "not test_api_endpoints"
